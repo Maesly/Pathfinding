@@ -1,2 +1,3 @@
-# Pathfinding
-Algoritmo de Pathfind
+# Pathfinding A*
+Algoritmo de Pathfing
+
